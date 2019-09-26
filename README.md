@@ -1,1 +1,1 @@
-# ili9341_stmf4
+# ili9341(16 bit) stmf4
